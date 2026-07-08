@@ -1,8 +1,8 @@
-
-
 ## 🌐 Live Demo
 
-🔗 https://your-live-demo-url.vercel.app/
+🚀 This is the **first live demo** of the EditKaro project, showcasing the responsive UI, interactive animations, and modern landing page design.
+
+🔗 editkaro1.vercel.app
 
 # 🎬 EditKaro
 
