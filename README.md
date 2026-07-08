@@ -4,7 +4,7 @@
 
 ## 🌐 Live Demo
 
-🔗 editkaro1.vercel.app
+🔗 **Live Demo:** https://editkaro1.vercel.app
 
 # 🎬 EditKaro
 
